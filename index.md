@@ -1,4 +1,4 @@
-# Paper League Privacy Policy
+# Privacy Policy
 
 This privacy policy discloses the privacy practices for the mobile application Paper League, published by Cake Slice Software, Lda. This privacy policy applies solely to information collected by this application. It will notify you of the following:
 
