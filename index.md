@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+### Paper League Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/cakeslice/paperleague/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This privacy policy discloses the privacy practices for the mobile application Paper League, published by Cake Slice Software, Lda. This privacy policy applies solely to information collected by this application. It will notify you of the following:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What personally identifiable information is collected from you through the application, how it is used and with whom it may be shared.
+What choices are available to you regarding the use of your data.
+The security procedures in place to protect the misuse of your information.
 
-### Markdown
+## Information Collection, Use, and Sharing 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are the sole owners of the information collected by us through this application. We only have access to/collect information that you voluntarily give us via the application or other direct contact from you. We will not sell or rent this information to anyone.
 
-```markdown
-Syntax highlighted code block
+We will use your information to provide in-game services and customer support. We will not share your information with any third party outside of our organization that is not disclosed in this policy.
 
-# Header 1
-## Header 2
-### Header 3
+To request the viewing or removal of information we’ve collected, contact **cakeslice.dev@gmail.com** from the email address connected to your game.
 
-- Bulleted
-- List
+## Third-party Advertisements
 
-1. Numbered
-2. List
+This application serves video advertisements using Third-party Advertising services. We do not share any collected information with these third-party advertisers but they may collect and store their own information. Their privacy policies are linked below.
 
-**Bold** and _Italic_ and `Code` text
+**Unity Ads**: https://unity3d.com/legal/privacy-policy
 
-[Link](url) and ![Image](src)
-```
+## Third-party Analytics
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This application collects general usage data using Third-party Analytics services. This allows us to know things like how many users we have and what types of devices they use. The privacy policies of the Analytics services used are linked below.
 
-### Jekyll Themes
+**Unity Analytics**: https://unity3d.com/legal/privacy-policy
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cakeslice/paperleague/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Your Access to and Control Over Information 
 
-### Support or Contact
+You can do the following at any time by contacting us via our support email address:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+See what data we have about you, if any.
+Have us delete any data we have about you.
+Express any concern you have about our use of your data.
+
+## Security 
+
+We take precautions to protect your information. When you submit sensitive information via the application, your information is protected both online and offline.
+
+All sensitive information is encrypted and transmitted to us in a secure way using standard web security practices.
+
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via email at cakeslice.dev@gmail.com**
