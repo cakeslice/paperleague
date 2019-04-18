@@ -1,5 +1,5 @@
 ---
-title: Paper League
+title: Support & Privacy
 ---
 
 # **Support**
