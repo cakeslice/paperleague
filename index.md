@@ -1,3 +1,7 @@
+---
+title: Paper League
+---
+
 # Support
 
 For any questions, help or suggestions, please contact us at **cakeslice.dev@gmail.com**
