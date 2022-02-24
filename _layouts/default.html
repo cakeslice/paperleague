@@ -1,36 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-
-    {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
-      </script>
-    {% endif %}
-    <meta charset="UTF-8">
-
-{% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#0060a9">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-  </head>
-  <body>
-    <header class="page-header" role="banner" style="background-color:#0060a9; background-image:none;">
-      <img style="max-width:50%" src="logo_trimmed.png"></img>
-    </header>
-
-    <main id="content" class="main-content" role="main">
-      {{ content }}
-
-      <footer class="site-footer">
-        <!--<span class="site-footer-credits">© 2019 Cake Slice Software - All rights Reserved</span>-->
-      </footer>
-    </main>
-  </body>
-</html>
+<meta charset="utf-8">
+<title>Redirecting to https://services.cakeslice.dev/privacy</title>
+<meta http-equiv="refresh" content="0; URL=https://services.cakeslice.dev/privacy">
+<link rel="canonical" href="https://services.cakeslice.dev/privacy">
